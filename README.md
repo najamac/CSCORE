@@ -1,1 +1,1 @@
-# CSCORE
+# C-SCoRE
